@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lordly prelate being, diverse experimentall receits, how to recover a Bishop if he were lost : written for the satisfaction of after times, should they desire to recall, what we labour, to reject.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49174</idno><idno type="EEBO-CITATION">12043454</idno>
+  <idno type="VID">53039</idno>
+  <idno type="EEBO-PROQUEST">2248528382</idno>
+  
+            <idno type="STC">Wing L3060</idno>
+            <idno type="STC">ESTC R19717</idno>
+            <idno type="OCLC">12043454</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53039)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 570:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lordly prelate being, diverse experimentall receits, how to recover a Bishop if he were lost : written for the satisfaction of after times, should they desire to recall, what we labour, to reject.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53039:1"/>
+            <pb facs="tcp:53039:1"/>
+            <p>A LORDLY PRELATE. Being, Diverse experimentall receits, how to re<g ref="char:EOLhyphen"/>cover a Bishop if he were lost.</p>
+            <p>Written for the satisfaction of after times, should they desire to recall, what we labour to reject.</p>
+            <figure>
+               <figDesc>portrait of a man</figDesc>
+            </figure>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:53039:2"/>
+            <pb n="1" facs="tcp:53039:2"/>
+            <head>A LORDLY PRELATE.</head>
+            <p>IF you aske me of what calling he is, I answer, I know not, For sometimes I find him <hi>in Tribunali,</hi> in a Court of Justice, sometimes in <hi>Suggesto,</hi> in a Pulpit: In the first, so much against Gods will, in the second, so much against his owne will, that as he hath not a right to the one, he prizeth not a right to the other. And what can I call this man?</p>
+            <p n="2">2. If you demand of what Religion he is; I know not. He doth protest he is not a Papist, and I would willingly beleeve him; yet he persecutes Protestants, and so I must necessarily doubt him. He is to me like the pictures, which by severall lights, hold forth a se<g ref="char:EOLhyphen"/>verall representation: On the one side you see a plea<g ref="char:EOLhyphen"/>sant Angel, on the other side a grim Satyr.</p>
+            <p n="3">3. He alwayes either acteth or commandeth con<g ref="char:EOLhyphen"/>tradictions: For hee cals a Puritan an Hypocrite, because he useth long Prayers; and yet placeth all his Religion in a daily Service of two houres long.</p>
+            <p n="4">4. He saith that Miracles are ceased long ago, though hee worketh Miracles every day: For hee
+<pb n="2" facs="tcp:53039:3"/>maintaineth universall grace, and yet forbiddeth prea<g ref="char:EOLhyphen"/>ching, the meanes of grace.</p>
+            <p n="5">5. He institutes (<hi>quo iure,</hi> I know not) Saints dayes or Holy dayes, and yet will not permit any holinesse that day, either in our generall or particular calling: For worke men may not, and heare sermons they can<g ref="char:EOLhyphen"/>not, there being none.</p>
+            <p n="6">6. He feareth and shunneth Crosses, as much as an other man, and yet maketh the Crosse a maine <hi>medium</hi> meanes of all his devotions.</p>
+            <p n="7">7. He thought with his Predecessor the Pope, not to have left Lay men other helps in Divinity than I<g ref="char:EOLhyphen"/>magenary, calling Images Lay mens books. But Lay men have of late so outstript him in that study, that all Episcopall Theolegie concentred in one, will be but the Image of the true Divinity, which may be found among Lay men. Witnesse those mighty Comments may by some worthy members, of the honourable assembly of the house of Commons, upon those monstrous, Babilonish, menstruous Cannons of theirs, which have nothing good in them but this, that by their eminency in their kind, they have not left posterity a possibility of exceeding them.</p>
+            <p n="8">8. He by his consecration, makes holy that which God hath made common, as Bels, Bel-ropes, Can<g ref="char:EOLhyphen"/>dles, Corporals and Altars, <hi>Orpheus</hi> could advance from Vegetative to sensitive, for plants and trees were rauished by the sweet and charming touch of his instrument, but a Bishop can doe more, that which is common he maketh holy.</p>
+            <pb n="3" facs="tcp:53039:3"/>
+            <p n="11">11 He knoweth that what is <hi>ultimum in executione,</hi> is <hi>primum in intentione,</hi> last in execution, first in inten<g ref="char:EOLhyphen"/>tion; and so he being by a cure of soules invested into <hi>Officium &amp; Reneficium,</hi> Office and benefice, his mind is wholly bent upon the last.</p>
+            <p n="12">12 He knoweth very well the weight of a Circum<g ref="char:EOLhyphen"/>stance, knoweth that that which is in one art a Cere<g ref="char:EOLhyphen"/>mony, in another is a Substance; and therefore puni<g ref="char:EOLhyphen"/>sheth the breach of a Ceremony with suspension, ex<g ref="char:EOLhyphen"/>communication, deprivation whilst fornication and adultry are committed many times for four shillings.</p>
+            <p n="13">13 He is a good Mathematician, he hath found out <hi>Quadraturam Circuli,</hi> squaring of a Circle: for our Hand and Crowne were <hi>tantum non,</hi> almost whol<g ref="char:EOLhyphen"/>ly with the whole world reduced in obedience to his square Cap.</p>
+            <p n="14">14 In the midst of all this learning, he is of a very tender conscience: In observing that some thought<g ref="char:EOLhyphen"/>lesse Christians did neglect their particular calling by Sermon-hunting, and so began to idolize preaching, he imit teth good <hi>Hezekias,</hi> and taketh away the Bra<g ref="char:EOLhyphen"/>zen Serpent, taketh away Sermons.</p>
+            <p n="15">15 He observeth the Scripture in the Spirit of it, useth his greatest Adversaries with most meeknesse; I meane, the Separation, and the Non-conformists; concluding, that diversity of opinions will beget their ruine, and establish him in his station.</p>
+            <p n="16">16 He a great imitator of Saint <hi>Paule,</hi> he becomes all to all that he may, if possible, win some; for he is something of a <hi>Lutheran</hi> in the Ceremonies, somthing of a Calvinist in doctrine, a Popish Disciplinarian in all things but selfe-whipping.</p>
+            <pb n="4" facs="tcp:53039:4"/>
+            <p>He is halfe a Precisian in the outward man. He loveth little bands, short haire, grave lookes: but had rather be slaine at Tyburne, than preach in a cloake (though <hi>Paul</hi> sent for his on some such occasion from <hi>Troas</hi>) or stand at the end of a Table, he is so unac<g ref="char:EOLhyphen"/>quainted with preaching either their, or elsewhere.</p>
+            <p n="18">18 He is halfe a Precisian in the inward man, abstai<g ref="char:EOLhyphen"/>neth from blood (by the Canon law he may not vote in blood) and meat offered to Idols, for there is no such in the Shambles. But what his judgement is for things strangled, our Prisons can tell, where many a good Minister hath beene pined and starved. And for fornication, you may judge by his commutation, which should goe to the poore, but serveth his wife for pins.</p>
+            <p n="19">19 He is halfe a Jew, he contends for Priests and Altars, though he will not use the word Sabbath, lest he should judaize throughout.</p>
+            <p n="20">20 In all these complying like a wise man, he is true to himselfe. For though he saith the fourth Com<g ref="char:EOLhyphen"/>mandement is <hi>jure humano,</hi> yet he saith Bishops are <hi>ju<g ref="char:EOLhyphen"/>re divino.</hi>
+            </p>
+            <p n="21">21 He standeth at the Beliefe, yet he hardly belee<g ref="char:EOLhyphen"/>veth what he standeth to, else he would not be so severe to the members of Christ.</p>
+            <p n="22">22 If he be a Hereticke in any thing, it is in re-bap<g ref="char:EOLhyphen"/>tization, which he calleth Bishopping, and yet stileth an Anabaptist an Hereticke.</p>
+            <p n="23">23 He doth with the Spirit conclude, that bodily exercise profiteth nothing, and therefore limits both prayer and preaching before Sermon, precisely to an houre.</p>
+            <div type="part">
+               <pb n="5" facs="tcp:53039:4"/>
+               <head>THE RECIPE.</head>
+               <p>
+                  <hi>Recipe</hi> 1. IN stead of the magistrall of Pearle, the magistrall of some of those consecrated stones which are to be found under the high Altar in Saint <hi>Pauls.</hi> Secondly, the scales of a consecrated clap<g ref="char:EOLhyphen"/>per, almost mouldred to nothing by the peevishnesse of a Scottish Puritan, which would not let the bels ring upon their Sabbath: of these two an equall quan<g ref="char:EOLhyphen"/>tity.</p>
+               <p n="2">2 Two ounces of the painting of the old Crucisix found in Christ Church three yeeres agoe. Secondly, all that quantity which remaineth of the scull of <hi>Brad<g ref="char:EOLhyphen"/>ford, Latimer, Ridley,</hi> and others of those Hereticks that suffered under <hi>Bonner</hi> and <hi>Gardiner,</hi> with halfe a pound of powder, which <hi>Faux</hi> layd treasured up un<g ref="char:EOLhyphen"/>der the Parliament house.</p>
+               <p n="3">3 Put all these, with a sufficient quantity of Puri<g ref="char:EOLhyphen"/>tans eare, and the gresie cover of a Singing-mans Common Prayer Booke, used by him in some great Cathedrall these seven last yeeres, into the Mitre sent out of <hi>Italy</hi> lately, as a harbinger of what must have followed.</p>
+               <p n="4">4 Be carefull to lute this Mitre with three spoone<g ref="char:EOLhyphen"/>fuls of a Pluralist fasting spittle, with a salt, chymical<g ref="char:EOLhyphen"/>ly extracted, by a skilfull hand, out of the first square cap that was worn by our Arch-bishop after the Re<g ref="char:EOLhyphen"/>formation.</p>
+               <p n="5">5 Set it on the fire at a Canonicall houre, and so double the heat at every Canonicall time, till these be boyled up to a perfect decoction.</p>
+               <p n="6">6 Dry it, but dry it onely at an Eastern Sun, and when it is dry enough, then beat it into powder, and
+<pb n="6" facs="tcp:53039:5"/>least any bigger peeces should remaine, searce it in three severall launes.</p>
+               <p n="7">7 First, that Laune with which <hi>Flora</hi> the famous Roman strumpet adorn'd her selfe in her greatest glo<g ref="char:EOLhyphen"/>ry. Secondly, in that which <hi>Cleopatra</hi> a Queene and strumpet of Egypt dressed her selfe in when she enter<g ref="char:EOLhyphen"/>tained <hi>Anthony.</hi> Thirly, and lastly, in a piece of the Laune of a Bishops sleeve, as famous for spirituall whoredome, as they for outward and bodily.</p>
+               <p n="8">8 When this powder is thus perfect, make it up into severall doses, and wrap up every one in a piece of Apocrypha Scripture. Administer it upon All Saints day, or at least upon some Holy day.</p>
+               <p n="9">9 Let this man but take for three mornings toge<g ref="char:EOLhyphen"/>ther three doses of this powder, after he hath made three legs to the East, or the Altar, and if he swallow not three Bishopricks, with three <hi>Commendams</hi> to e<g ref="char:EOLhyphen"/>very one of them, I am grosly mistaken.</p>
+               <pb facs="tcp:53039:5"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
